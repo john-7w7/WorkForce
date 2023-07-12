@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Centaury Gothic;
+}
+body{
+    background-color: #ededed;
+}
+form{
+    width: 700px;
+    margin: auto;
+    background-color: #fff;
+}
+input{
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
